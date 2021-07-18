@@ -27,11 +27,11 @@ title:                 JS Data Science
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Deriving business insights from siginificant dataset
+  Deriving business insights from siginificant dataset 
 
 # A shorter description for the sidebar.
 tagline:               >
-  Integration of business and data science
+  Deriving business insights from siginificant dataset
 
 # A list of keywords for your blog
 keywords:              []
